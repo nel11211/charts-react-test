@@ -1,0 +1,5 @@
+:root,
+:host {
+  --arcgis-charts-default-width: 100%;
+  --arcgis-charts-default-height: 100%;
+}
